@@ -18,7 +18,7 @@ A small project refresher on js functions, parameters, conditionals, and operato
 ## Part 2: Alien Annihilation
 ### You will create a function that returns a message depending on the conditionals fulfilled
 
-###JavaScript
+### JavaScript
 - Underneath the `calculator()` function create a new functione called `aliens()`
 - The total amount of aliens there are is 10,000.
 - Create variables with this information, and set up a series of conditional statements such that:
