@@ -1,6 +1,6 @@
 # JavaScriptRefresher
 A small project refresher on js functions, parameters, conditionals, and operator selectors
-
+<br/>
 
 ## Part 1: Calculator Frenzy
 ### You will be creating a function that can either, add, multiply, subtract, or divide
