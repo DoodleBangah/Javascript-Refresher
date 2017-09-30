@@ -4,7 +4,7 @@ A small project refresher on js functions, parameters, conditionals, and operato
 ## Part 1: Calculator Frenzy
 ### You will be creating a function that can either, add, multiply, subtract, or divide
 
-### JavaScript
+#### JavaScript
 - Create a function called `calculator()`
 - This functions will take three parameters: `operator`, `num1`, and `num2`
 - The first parameter, `operator` takes in a *string* that determines what mathematical operation to run (ex. addition, subtraction, multiplication, division)
@@ -18,7 +18,7 @@ A small project refresher on js functions, parameters, conditionals, and operato
 ## Part 2: Alien Annihilation
 ### You will create a function that returns a message depending on the conditionals fulfilled
 
-### JavaScript
+#### JavaScript
 - Underneath the `calculator()` function create a new functione called `aliens()`
 - The total amount of aliens there are is 10,000.
 - Create variables with this information, and set up a series of conditional statements such that:
